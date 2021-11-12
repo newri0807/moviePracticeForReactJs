@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/moviePracticeForReactJs/static/js/main.f990f0c6.chunk.js",
+    "main.js.map": "/moviePracticeForReactJs/static/js/main.f990f0c6.chunk.js.map",
+    "runtime-main.js": "/moviePracticeForReactJs/static/js/runtime-main.8899fbd1.js",
+    "runtime-main.js.map": "/moviePracticeForReactJs/static/js/runtime-main.8899fbd1.js.map",
+    "static/js/2.f46c3bb1.chunk.js": "/moviePracticeForReactJs/static/js/2.f46c3bb1.chunk.js",
+    "static/js/2.f46c3bb1.chunk.js.map": "/moviePracticeForReactJs/static/js/2.f46c3bb1.chunk.js.map",
+    "index.html": "/moviePracticeForReactJs/index.html",
+    "static/js/2.f46c3bb1.chunk.js.LICENSE.txt": "/moviePracticeForReactJs/static/js/2.f46c3bb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8899fbd1.js",
+    "static/js/2.f46c3bb1.chunk.js",
+    "static/js/main.f990f0c6.chunk.js"
+  ]
+}
